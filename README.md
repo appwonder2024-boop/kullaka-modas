@@ -1,3 +1,4 @@
+
 # KULLAKA — Ecommerce de Moda 👕✨
 
 <p align="center">
@@ -239,3 +240,7 @@ Todos los derechos reservados © KULLAKA
   <strong>KULLAKA © 2026</strong><br/>
   Moda urbana · Ecommerce · Tecnología
 </p>
+
+# kullaka-modas
+tienda virtual - Web en React 
+
