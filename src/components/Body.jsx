@@ -2,7 +2,7 @@ function Body() {
     return(
         <main>
             <h2>Productos</h2>
-            <p>Bienvenido a la Tienda en React</p>
+            <p>Test de Parrafo</p>
 
         </main>
     )
